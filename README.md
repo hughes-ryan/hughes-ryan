@@ -1,5 +1,6 @@
 ## Hi there, I'm Ryan! 👋
-🚀 I'm currently learning <b>Full-Stack Development</b> at <b><a href="https://kood.tech/en/">//Kood</a></b>! <br>
+🚀 I'm currently learning <b>Full-Stack Development</b> at <b><a href="https://kood.tech/en/">//Kood</a></b><br>
+This school uses their own git service, so I'll be importing my projects to GitHub once they're complete!
 
 #### Technologies I've used:
 ##### 💬 Languages
