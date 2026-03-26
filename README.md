@@ -6,6 +6,7 @@ This school uses their own git service, so I'll be importing my projects to GitH
 ##### 💬 Languages
 - Java
 - JavaScript
+- TypeScript
 ##### 🔧 FRAMEWORKS / LIBRARIES
 - Spring Boot
 - Node.js
